@@ -96,6 +96,7 @@ body {
 .card .card-footer button {
   background-color: var(--Bright-blue);
   height: 40px;
+  color: var(--Very-pale-blue);
   border: 0;
   border-radius: 10px;
   font-weight: 700;
